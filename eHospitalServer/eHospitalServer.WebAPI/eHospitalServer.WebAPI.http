@@ -1,0 +1,49 @@
+@eHospitalServer.WebAPI_HostAddress = http://localhost:5001
+
+GET https://localhost:7252/api/Auth/Get
+Accept: application/json
+Authorization: Bearer eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImRiODlkYTJhLTcwNzEtNDgxNS1iYTA3LWNiYzBhYTMzNTk0OCIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL25hbWUiOiJUYW5lciBTYXlkYW0iLCJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJhZG1pbkBhZG1pbi5jb20iLCJVc2VyTmFtZSI6ImFkbWluIiwibmJmIjoxNzA5MDYxNTU2LCJleHAiOjE3MDkwNzIzNTYsImlzcyI6IlRhbmVyIFNheWRhbSIsImF1ZCI6IsOWxJ9yZW5jaWxlcmltIn0.0EN8RaDo6pcXcC5bbGwpqzlK2BFA_ZMstgD9RCJECuYmQ8sem4X78harVkGdKI8o12gZD9CQprbrEo3MsrQPrg
+###
+
+POST https://localhost:7252/api/Auth/Login
+Accept: application/json
+Content-Type: application/json
+
+{
+    "emailOrUserName": "ADMIN",
+    "password": "1"
+}
+
+###
+
+GET https://localhost:7252/api/Auth/GetTokenByRefreshToken?refreshToken=ae726ddb-4258-47f8-b24c-dcb4dfeb15f0
+Accept: application/json
+
+
+###
+
+POST https://localhost:7252/api/Users/Create
+Content-Type: application/json
+
+{
+  "firstName": "Taner",
+  "lastName": "Saydam",
+  "identityNumber": "11144466612",
+  "fullAddress": "Kayseri",
+  "email": "tanersaydam@gmail.com",
+  "userName": "tsaydam",
+  "password": "Password12*",
+  "phoneNumber": "5536548006",
+  "dateOfBirth": "1989-09-03",
+  "bloodType": "0rh+",
+  "userType": 1,
+  "specialty": 7,
+  "workingDays": [
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday"
+  ]
+}
+###

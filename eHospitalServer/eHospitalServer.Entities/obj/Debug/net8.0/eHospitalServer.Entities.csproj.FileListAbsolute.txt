@@ -1,0 +1,12 @@
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\eHospital\eHospitalServer\eHospitalServer.Entities\bin\Debug\net8.0\eHospitalServer.Entities.deps.json
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\eHospital\eHospitalServer\eHospitalServer.Entities\bin\Debug\net8.0\eHospitalServer.Entities.dll
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\eHospital\eHospitalServer\eHospitalServer.Entities\bin\Debug\net8.0\eHospitalServer.Entities.pdb
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\eHospital\eHospitalServer\eHospitalServer.Entities\obj\Debug\net8.0\eHospitalServer.Entities.csproj.AssemblyReference.cache
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\eHospital\eHospitalServer\eHospitalServer.Entities\obj\Debug\net8.0\eHospitalServer.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\eHospital\eHospitalServer\eHospitalServer.Entities\obj\Debug\net8.0\eHospitalServer.Entities.AssemblyInfoInputs.cache
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\eHospital\eHospitalServer\eHospitalServer.Entities\obj\Debug\net8.0\eHospitalServer.Entities.AssemblyInfo.cs
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\eHospital\eHospitalServer\eHospitalServer.Entities\obj\Debug\net8.0\eHospitalServer.Entities.csproj.CoreCompileInputs.cache
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\eHospital\eHospitalServer\eHospitalServer.Entities\obj\Debug\net8.0\eHospitalServer.Entities.dll
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\eHospital\eHospitalServer\eHospitalServer.Entities\obj\Debug\net8.0\refint\eHospitalServer.Entities.dll
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\eHospital\eHospitalServer\eHospitalServer.Entities\obj\Debug\net8.0\eHospitalServer.Entities.pdb
+C:\Users\TRON PCH\source\repos\YMYP2\14.Projeler\eHospital\eHospitalServer\eHospitalServer.Entities\obj\Debug\net8.0\ref\eHospitalServer.Entities.dll
